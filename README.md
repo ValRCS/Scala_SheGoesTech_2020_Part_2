@@ -24,6 +24,8 @@ Syllabus
 
 # More with webscraping
 
+# Creating GUIs - Graphical User Interfaces
+
 # SPARK 45h-60h
 
 ## Spark Concepts
