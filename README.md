@@ -18,6 +18,12 @@ Syllabus
 * Document DB - MongoDB
 * Key-Value store - Redis
 
+# Web Services
+* Creating a simple REST API meaning we create access to some data store via our API
+* maybe serving simple web pages
+
+# More with webscraping
+
 # SPARK 45h-60h
 
 ## Spark Concepts
